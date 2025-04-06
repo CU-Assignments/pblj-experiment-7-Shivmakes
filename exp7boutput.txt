@@ -1,0 +1,17 @@
+---- Student Management Menu ----
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice: 1
+Enter Student ID: 101
+Enter Name: Alice
+Enter Department: CSE
+Enter Marks: 88.5
+Student added successfully.
+
+---- Student Management Menu ----
+2
+-- Student List --
+ID: 101 | Name: Alice | Dept: CSE | Marks: 88.50
